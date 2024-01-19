@@ -40,10 +40,10 @@ Our mission is to cater to your diverse needs, offering not only delicious main 
 Whether you're grabbing a quick bite between classes, restocking your study essentials, or treating yourself to a sweet indulgence, the  Canteen-Website is your all-in-one destination on campus. With the option to order online for swift service or visit our physical location, we strive to make every aspect of your college life more convenient.
 
 ## Technology Used🚀
-<p>
+<p align="middle">
    <img src="./img/html.png" width="150">
    <img src="./img/css.jpeg" width="150">
-   <img src="./img/javascript.jpeg" width="150">
+   <img src="./img/javascript.jpg" width="150">
 </p>
 <p>
    <img src="./img/C++.png" width="150">
