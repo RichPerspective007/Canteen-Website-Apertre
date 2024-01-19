@@ -41,13 +41,13 @@ Whether you're grabbing a quick bite between classes, restocking your study esse
 
 ## Technology Used🚀
 
-- HTML
-- CSS
-- JAVASCRIPT
-- C++
-- DART
-- CMAKE
-- FLUTTER
+![HTML](./img/html.png?raw=true)
+![CSS](./img/css.jpeg?raw=true)
+![JAVASCRIPT](./img/javascript.jpg?raw=true)
+![C++](./img/C++.png?raw=true)
+![DART](./img/dart.png?raw=true)
+![CMAKE](./img/cmake.png?raw=true)
+![FLUTTER](./img/flutter.png?raw=true)
 
 
 

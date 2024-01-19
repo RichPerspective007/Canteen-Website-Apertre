@@ -278,7 +278,7 @@ icon.onclick = function () {
     fs.classList.add("fas1");
   }
   else {
-    icon.src = "moon-icon.png";
+    icon.src = "./img/moon-icon.png";
     btn.classList.remove("myBtn1");
     fs.classList.remove("fas1");
   }
