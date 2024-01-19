@@ -4,7 +4,7 @@ var fs = document.getElementsByClassName("fas");
 icon.onclick = function () {
   document.body.classList.toggle("dark-theme");
   if (document.body.classList.contains("dark-theme")) {
-    icon.src = "sun-icon.png";
+    icon.src = "./img/sun-icon.png";
     btn.classList.add("myBtn1");
     fs.classList.add("fas1");
   }
