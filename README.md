@@ -41,17 +41,17 @@ Whether you're grabbing a quick bite between classes, restocking your study esse
 
 ## Technology Used🚀
 <p align="middle">
-   <img src="./img/html.png" width="150">
-   <img src="./img/css.jpeg" width="150">
-   <img src="./img/javascript.jpg" width="150">
+   <img src="./img/html.png" width="150" margin="20">
+   <img src="./img/css.jpeg" width="150" margin="20">
+   <img src="./img/javascript.jpg" width="150" margin="20">
 </p>
-<p>
-   <img src="./img/C++.png" width="150">
-   <img src="./img/dart.png" width="150">
-   <img src="./img/cmake.png" width="150">
+<p align="middle">
+   <img src="./img/C++.png" width="150" margin="20">
+   <img src="./img/dart.png" width="150" margin="20">
+   <img src="./img/cmake.png" width="150" margin="20">
 </p>
-<p>
-   <img src="./img/flutter.png" width="150">
+<p align="middle">
+   <img src="./img/flutter.png" width="150" margin="20">
 </p>
 
 
